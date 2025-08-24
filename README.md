@@ -14,21 +14,10 @@ Let's connect and build something amazing together!
 - Java
 - C
 - JavaScript
-
 ### Web Development
 - HTML, CSS, JavaScript
 - Node.js (Basics)
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Jenkins (Basics)
-- Postman
-
-
-### Data & Algorithms
-- Data Structures & Algorithms (DSA)
 - Problem Solving on LeetCode/HackerRank
-
 ### Other Interests
 - Machine Learning (Beginner)
 - C
