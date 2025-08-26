@@ -46,6 +46,6 @@ I’m passionate about technology, problem-solving, and building impactful proje
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji78938&show_icons=true&theme=tokyonight" alt="Balaji's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasri&show_icons=true&theme=tokyonight" alt="Bhavya's GitHub Stats" />
 </p>
 
