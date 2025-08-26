@@ -7,7 +7,8 @@ Let's connect and build something amazing together!
 ##  Technical Skills
 ### Programming Languages
 - Python
-- Java
+- Java![Static Badge](https://img.shields.io/badge/java%2Cintermediate-orange?style=for-the-badge&logo=java&logoColor=orange&logoSize=auto&label=java&labelColor=orange&color=orange)
+
 - C
 - JavaScript
 ### Web Development
